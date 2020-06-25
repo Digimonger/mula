@@ -1,0 +1,9 @@
+Building mula
+
+See doc/readme-qt.rst for instructions on building mula-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of mula.
+
+See doc/build-*.txt for instructions on building mulad,
+the intended-for-services, no-graphical-interface, reference
+implementation of mula.
